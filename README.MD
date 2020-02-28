@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="./app/src/main/res/drawable/ruletest.jpg" width="400">
+<img "Pantalla inicial.png" width="400">
 </p>
 
 
