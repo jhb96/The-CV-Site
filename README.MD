@@ -3,7 +3,7 @@
 ![Image description](https://github.com/jhb96/The-CV-Site/blob/master/Pantalla%20inicial.png)
 
 ## VIDEO DEMO:
-Download the bandicam video in the repository!
+Please, download the bandicam video in the repository!
 
 
 <p align="center">
